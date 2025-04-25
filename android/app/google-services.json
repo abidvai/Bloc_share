@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298641081729",
+    "project_id": "blocdata-e048f",
+    "storage_bucket": "blocdata-e048f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298641081729:android:e9cef03e93cf50dd04d480",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4w7qz341DD1Oav9fwId9gvKFBP3Y5Azk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
